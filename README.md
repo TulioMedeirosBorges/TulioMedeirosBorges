@@ -1,6 +1,6 @@
 # 👨‍💻 Tulio Medeiros
 
-**`Desenvolvedor FullStack`**
+**`Futuro Desenvolvedor FullStack`**
 
 Olá! Me chamo Túlio Medeiros, tenho 22 anos e sou natural de Franca - SP. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Unifran e possuo formação técnica em Design. Sou apaixonado por tecnologia, design e tudo que envolve inovação.
 Gosto de aprender coisas novas e estou sempre em busca de evoluir, tanto pessoal quanto profissionalmente. Acredito que unir criatividade e lógica é o caminho para criar soluções únicas e impactantes.
