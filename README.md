@@ -18,18 +18,18 @@
 
 ---
 
-## 🙋‍♂️ Sobre mim
+##  Sobre mim
 
 Tenho 22 anos, estudo **Análise e Desenvolvimento de Sistemas na Unifran** e tenho formação técnica em **Design**. Gosto de juntar as duas coisas: interfaces bem pensadas por fora e lógica bem feita por dentro.
 
-- 🌊 Hoje trabalho no **Algamar**, um software que prevê floração de algas no litoral de São Paulo com Machine Learning. Fiz o site e o sistema web, e colaborei no modelo.
-- 📰 Criei o **VerusAI**, uma extensão de navegador que usa IA para checar as afirmações de uma notícia e mostrar as fontes.
-- 🎨 Venho do design, então me importo com layout, identidade visual e experiência do usuário.
-- 🌱 Estudando agora: back-end com Node.js e Python, APIs, IA aplicada e ciência de dados.
+-  Hoje trabalho no **Algamar**, um software que prevê floração de algas no litoral de São Paulo com Machine Learning. Fiz o site e o sistema web, e colaborei no modelo.
+-  Criei o **VerusAI**, uma extensão de navegador que usa IA para checar as afirmações de uma notícia e mostrar as fontes.
+-  Venho do design, então me importo com layout, identidade visual e experiência do usuário.
+-  Estudando agora: back-end com Node.js e Python, APIs, IA aplicada e ciência de dados.
 
-## 🚀 Projetos em destaque
+##  Projetos em destaque
 
-### 🌊 Algamar: previsão de floração de algas no litoral
+###  Algamar: previsão de floração de algas no litoral
 
 Plataforma que estima o risco de floração de algas ao longo do litoral paulista, a partir de dados de satélite (clorofila, temperatura, salinidade) e de um modelo de Machine Learning, com mapa de risco, previsões e alertas.
 
@@ -40,7 +40,7 @@ Plataforma que estima o risco de floração de algas ao longo do litoral paulist
 
 `HTML` `CSS` `JavaScript` `Python` `FastAPI` `pandas` `scikit-learn` `Copernicus Marine`
 
-### 📰 VerusAI: análise de notícias com IA
+###  VerusAI: análise de notícias com IA
 
 Extensão para Chrome (Manifest V3) com servidor em Node.js/Express. Ao clicar no botão em qualquer notícia, um pipeline de **11 etapas de IA** extrai as afirmações do texto, busca evidências na web e em fontes oficiais, audita os próprios vereditos e mostra numa barra lateral o resultado, as fontes e o nível de confiança. Tem chat sobre notícias, destaque das afirmações na página, login com Google e avaliação de fontes pela comunidade.
 
@@ -79,14 +79,14 @@ Extensão para Chrome (Manifest V3) com servidor em Node.js/Express. Ao clicar n
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai&theme=dark" alt="Git, GitHub, VS Code, Figma, Photoshop, Illustrator" />
 </p>
 
-## 📊 Estatísticas
+##  Estatísticas
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=TulioMedeirosBorges&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TulioMedeirosBorges&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
-## 🐍 Minhas contribuições
+##  Minhas contribuições
 
 <p align="center">
   <picture>
